@@ -15,7 +15,7 @@ The solution file requires a 64 bit configuration, and wxWidgets to be installed
     *	Once installed, you will need to build the libraries with the same compiler you will compile the application with.  There are Visual Studio solution files under “$(wxwin)\build\msw\” - wx_vc17.sln is the latest.  
     *	With the solution open in Visual Studio, change to the configuration you want to build the project in (Debug or Release), and build the solution.
 
-*	Once/If wxWidgets is installed, either update the include directories for the project, or simply add the “wxwin” environment variable pointing to your wxWidgets directory - default: “C:\wxWidgets-3.2.4” (latest version at time of writing).  You may need to restart your computer for the environment variable changes to take effect.
+*	Once/If wxWidgets is installed, either update the include directories for the project, or simply add the “wxwin” environment variable pointing to your wxWidgets directory - default: `C:\wxWidgets-3.2.5` (latest version at time of writing - do not wrap the path in quotes).  You may need to restart your computer for the environment variable changes to take effect.
 
 *	Unzip the “Five-Function-Calculator.zip” file and open the “Five-Function Calculator.sln” solution file.  With Visual Studio open, select the configuration you built the wxWidgets libraries for (Debug or Release), and build the solution.  The binary will be built as  “Five-Function-Calculator\bin\x64\(Debug or Release)\Five-Function Calculator.exe”.
 
