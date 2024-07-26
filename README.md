@@ -28,3 +28,5 @@ The application generates a “CalcTrace.txt” file in its current directory - 
 *	The trace tab displays the steps and output of calculations.
 *	A “CalcTrace.txt” file also contains the output information.
 
+##
+![screenshot](screenshots/calculator.png)
