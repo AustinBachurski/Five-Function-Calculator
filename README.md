@@ -2,7 +2,7 @@
 
 This project was a take home challenge from a company.
 <br><br>
-The requirements are outlined in the `Five-Function-Calculator Specification.pdf` file, the project was to be completed in one week.
+The requirements are outlined in the `specification.md` file, the project was to be completed in one week.
 
 Developed on a 64bit Windows 10 machine using Visual Studio Community 2022 and the wxWidgets C++ library, intended to be compiled with MSVC and C++ 20.  Development time before submission: `43 hours`.
 
